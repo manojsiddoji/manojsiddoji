@@ -4,7 +4,6 @@
 <h4>
   Passionate front-end developer crafting responsive, user-centric web experiences with modern technologies & learning things about web.
 </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojsiddoji&label=Profile%20views&color=0e75b6&style=flat" alt="manojsiddoji" /> </p>
 
 - 📫 How to reach me **ytkrazy8@gmail.com**
 
@@ -30,5 +29,11 @@
 <h2>Tools & Tech</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=wordpress,git,vscode,github,figma,selenium,vercel)](https://skillicons.dev)
+
+<h2>My GitHub Stats</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manojsiddoji&show_icons=true&locale=en&theme=dark" alt="manojsiddoji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsiddoji&theme=dark" alt="manojsiddoji" /></p>
 
 
