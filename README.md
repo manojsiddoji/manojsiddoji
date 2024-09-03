@@ -1,9 +1,9 @@
 <h1>HOLA 👋</h1>
 <h2>I'm Manoj Siddoji</h2>
 
-<h4>
-  Passionate front-end developer crafting responsive, user-centric web experiences with modern technologies & learning things about web.
-</h4>
+<h3>
+   I like making, experimenting, developing and learning things about the web.
+</h3>
 
 - 📫 How to reach me **ytkrazy8@gmail.com**
 
