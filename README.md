@@ -28,7 +28,7 @@
 
 <h2>Tools & Tech</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=wordpress,git,vscode,github,figma,selenium,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,git,vscode,github,figma,selenium)](https://skillicons.dev)
 
 <h2>My GitHub Stats</h2>
 
