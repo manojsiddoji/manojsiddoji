@@ -32,10 +32,10 @@
 
 <h2>My GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manojsiddoji&show_icons=true&locale=en&theme=dark" alt="manojsiddoji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsiddoji&theme=dark" alt="manojsiddoji"/></p>
-
+<p align = "left">
+   <img src = "https://github-readme-stats.vercel.app/api?username=manojsiddoji&count_private=true&theme=dark"/>&nbsp;
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manojsiddoji&theme=dark"/>
+</p>
 
    
 
