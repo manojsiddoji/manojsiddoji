@@ -34,12 +34,8 @@
 
 <p>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=manojsiddoji&show_icons=true&count_private=true&theme=dark">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsiddoji&theme=dark" alt="manojsiddoji" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=manojsiddoji&show_icons=true&count_private=true&theme=dark" style="vertical-align: middle;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojsiddoji&theme=dark" alt="manojsiddoji" style="vertical-align: middle;">
-</p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsiddoji&theme=dark" alt="manojsiddoji" />
 
 
