@@ -33,8 +33,8 @@
 <h2>My GitHub Stats</h2>
 
 <p align = "left">
-   <img src = "https://github-readme-stats.vercel.app/api?username=manojsiddoji&count_private=true&theme=dark" width=420/>&nbsp;
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manojsiddoji&theme=dark" width=420/>
+   <img src = "https://github-readme-stats.vercel.app/api?username=manojsiddoji&count_private=true&theme=dark" width=410/>&nbsp;
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manojsiddoji&theme=dark" width=410/>
 </p>
 
    
