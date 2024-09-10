@@ -30,7 +30,11 @@
  
 [![My Skills](https://skillicons.dev/icons?i=wordpress,git,vscode,github,figma,selenium,postman)](https://skillicons.dev)
 
-   
+<h2>My Github Stats</h2>
 
+<p align = "left">
+   <img src = "https://github-readme-stats.vercel.app/api?username=manojsiddoji&show_icons=true&count_private=true&theme=dark">&nbsp
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manojsiddoji&show_icons=true&theme=dark">
+</p>
 
 
