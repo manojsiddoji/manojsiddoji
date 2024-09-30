@@ -20,7 +20,7 @@
 
 <h2>Frameworks & Libraries</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,laravel)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
