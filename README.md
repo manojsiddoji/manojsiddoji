@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/manoj siddoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj siddoji" height="30" width="40" /></a>
 </p>
 
+<!--
 <h2>Languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,javascript,php,python)](https://skillicons.dev)
