@@ -30,6 +30,7 @@
 <h2>Tools & Tech</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=wordpress,git,vscode,github,figma)](https://skillicons.dev)
+-->
 
 ---
 
