@@ -2,7 +2,7 @@
 <h2>I'm Manoj Siddoji</h2>
 
 <h3>
-   I like making, experimenting, developing and learning things about the web.
+  Just a human making, experimenting, developing, and learning on the web.(Usually with Tea).
 </h3>
 
 - 📫 How to reach me **ytkrazy8@gmail.com**
