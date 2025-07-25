@@ -41,5 +41,5 @@
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=manojsiddoji&show_icons=true&theme=dark" width=410 height=170>
 </p>
 -->
-
+[![An image of @manojsiddoji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manojsiddoji)](https://holopin.io/@manojsiddoji)
 
